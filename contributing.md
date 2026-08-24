@@ -62,7 +62,7 @@ moon fmt
 
 ## 提问与讨论
 
-- 提交 Issue：https://github.com/guixin123-afk/mb-retry/issues
-- 提交 PR：https://github.com/guixin123-afk/mb-retry/pulls
+- 提交 Issue：https://github.com/chengwanqiu123/mb-retry/issues
+- 提交 PR：https://github.com/chengwanqiu123/mb-retry/pulls
 
 再次感谢你的贡献！
