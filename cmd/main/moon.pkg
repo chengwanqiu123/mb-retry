@@ -1,0 +1,5 @@
+import {
+  "chengwanqiu123/mb_retry" @lib,
+}
+
+pkgtype(kind: "executable")

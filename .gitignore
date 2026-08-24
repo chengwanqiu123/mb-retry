@@ -1,0 +1,21 @@
+# Build artifacts
+_build/
+*.wasm
+*.wat
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# MoonBit cache
+.moon/
+
+# Temp files
+_out.txt
+_err.txt

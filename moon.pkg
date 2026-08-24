@@ -1,0 +1,4 @@
+import {
+  "moonbitlang/core/test" @test,
+  "moonbitlang/core/math" @math,
+}
